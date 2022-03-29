@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+    "node": "16.14.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GreenmanAustin/just-tech-news.git"
