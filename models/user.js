@@ -60,4 +60,6 @@ User.init(
   }
 );
 
+// new comment
+
 module.exports = User;
