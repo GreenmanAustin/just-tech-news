@@ -19,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/GreenmanAustin/just-tech-news/issues"
   },
-  "homepage": "https://github.com/GreenmanAustin/just-tech-news#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "dotenv": "^16.0.0",
